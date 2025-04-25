@@ -1,0 +1,8 @@
+flask
+flask-cors
+nltk
+opencv-python
+SpeechRecognition
+numpy
+dlib
+psycopg2-binary
