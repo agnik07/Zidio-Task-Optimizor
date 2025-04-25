@@ -12,7 +12,7 @@ Task Optimizer is a tool designed to track the emotions of employees to monitor 
 To install the required dependencies, run:
 
 ```bash
-pip install -r requirements_no_tf.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
